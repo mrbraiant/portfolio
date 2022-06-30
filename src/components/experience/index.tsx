@@ -15,18 +15,21 @@ export const Experience = () => {
           </TitleBox>
           <Text>
             Trabalho como Desenvolvedor Web, na área de
-            Front-End, com React, Next e Angular e
+            Front-End, com React, Next e Angular e estou
             aprendendo cada vez mais sobre Fullstack com
             Next há quase um ano. Minha rotina de trabalho
-            resume em concluir várias tarefas diárias com
-            prazos pré-definidos, resolvendo bugs,
+            resume em consumir APIs, integrá-las ao front
+            end, concluir e corrigir várias tarefas diárias
+            com prazos pré-definidos, resolvendo bugs,
+            pesquisando soluções e melhores formas de lidar
+            com o problema, evitando gambiarras,
             desenvolvendo layouts responsivos e participando
             de vários projetos simultâneos desde seus
             primeiros estágios de desenvolvimento.
           </Text>
           <br />
           <Text>
-            Meu foco de aprendizado é ser Fullstack em
+            Meu foco de estudos é na área Fullstack em
             TypeScript/JavaScript com React/Angular/Next e
             Node para então seguir rumo ao Full Cycle.
           </Text>
