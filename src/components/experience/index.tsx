@@ -19,12 +19,14 @@ export const Experience = () => {
             aprendendo cada vez mais sobre Fullstack com
             Next há quase um ano. Minha rotina de trabalho
             se resume em consumir APIs, integrá-las ao front
-            end, concluir e corrigir várias tarefas diárias
-            com prazos pré-definidos, resolvendo bugs,
-            pesquisando soluções nas documentações, fórums e
-            tutoriais em Inglês, buscando as melhores formas
-            de lidar com o problema, entendendo-o e evitando
-            gambiarras, desenvolvendo layouts responsivos e
+            end, desenvolvendo Web Apps com arquitetura
+            <em> Single Page Application</em> com layouts
+            responsivos, bem como concluir e corrigir várias
+            tarefas diárias com prazos pré-definidos,
+            resolvendo bugs, pesquisando soluções nas
+            documentações, fórums e tutoriais em Inglês,
+            buscando as melhores formas de lidar com o
+            problema, entendendo-o e evitando gambiarras,
             participando de vários projetos simultâneos
             desde seus primeiros estágios de
             desenvolvimento.
@@ -50,7 +52,7 @@ export const Experience = () => {
             funcionamento da página.
           </Text>
           <Text type="caption">
-            <i>Você pode visualizar no repositório: </i>
+            <em>Você pode visualizar no repositório: </em>
             <Link href="https://github.com/mrbraiant/phpImplements/blob/main/IfConditionYoutubeSolution.php">
               link do repositório
             </Link>
