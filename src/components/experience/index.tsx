@@ -18,14 +18,16 @@ export const Experience = () => {
             Front-End, com React, Next e Angular e estou
             aprendendo cada vez mais sobre Fullstack com
             Next há quase um ano. Minha rotina de trabalho
-            resume em consumir APIs, integrá-las ao front
+            se resume em consumir APIs, integrá-las ao front
             end, concluir e corrigir várias tarefas diárias
             com prazos pré-definidos, resolvendo bugs,
-            pesquisando soluções e melhores formas de lidar
-            com o problema, evitando gambiarras,
-            desenvolvendo layouts responsivos e participando
-            de vários projetos simultâneos desde seus
-            primeiros estágios de desenvolvimento.
+            pesquisando soluções nas documentações, fórums e
+            tutoriais em Inglês, buscando as melhores formas
+            de lidar com o problema, entendendo-o e evitando
+            gambiarras, desenvolvendo layouts responsivos e
+            participando de vários projetos simultâneos
+            desde seus primeiros estágios de
+            desenvolvimento.
           </Text>
           <br />
           <Text>

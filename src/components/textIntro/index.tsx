@@ -37,8 +37,9 @@ export const TextIntro = () => {
           style={{ color: '#f1f1f1' }}
         >
           Desenvolvimento Web - Com foco em desenvolvimento
-          de sites, Apps e sistemas responsivos e consumos
-          de APIs utilizando React, Next ou Angular.
+          de sites, Web Apps, sistemas responsivos e
+          consumos de APIs utilizando React, Next ou
+          Angular.
         </Text>
       </TextBox>
     </Wrapper>
