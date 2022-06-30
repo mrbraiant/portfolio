@@ -31,7 +31,8 @@ export const Experience = () => {
           <Text>
             Meu foco de estudos é na área Fullstack em
             TypeScript/JavaScript com React/Angular/Next e
-            Node para então seguir rumo ao Full Cycle.
+            Node/Express para então em breve seguir com mais
+            estudos rumo ao Full Cycle.
           </Text>
           <br />
           <Text>
