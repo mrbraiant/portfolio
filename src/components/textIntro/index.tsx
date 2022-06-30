@@ -36,7 +36,7 @@ export const TextIntro = () => {
           type={isMobileVersion ? 'body2' : 'h5'}
           style={{ color: '#f1f1f1' }}
         >
-          Desenvolvimento Web - Com foco em develvolvimento
+          Desenvolvimento Web - Com foco em desenvolvimento
           de sites, Apps e sistemas responsivos utilizando
           React, Next ou Angular.
         </Text>
