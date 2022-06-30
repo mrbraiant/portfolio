@@ -16,7 +16,7 @@ export const ArticlesList = [
     title: 'Experiências à parte',
     introText:
       'Um pouco sobre as minhas experiências no mercado de trabalho',
-    text: 'Já trabalhei como garçom, barista, barman, caixa, operacional em logística, financeiro e agora onde estou focado na carreira de desenvolvedor de sites, APIs, apps e sistemas online como Front-End e Fullstack.',
+    text: 'Já trabalhei como garçom, barista, barman, caixa, operacional em logística, financeiro e agora onde estou focado na carreira de desenvolvedor de sites, Web Apps, APIs e sistemas online como Front-End e Fullstack usando como base JavaScript/TypeScript.',
     image: '/jobs.png',
     imageAlt: 'jobs',
     // video: '',
@@ -25,7 +25,7 @@ export const ArticlesList = [
     id: 2,
     title: 'Formação e Cursos',
     introText: `Minha formação acadêmica e cursos concluídos`,
-    text: 'Sou Tecnólogo, graduado em Análise e Desenvolvimento de Sistemas pela UNIS-MG, atualmente meu foco é desenvolvimento web, Front-End/Fullstack com React/Next. Tenho certificados dos cursos de React, Angular dentre outros que você pode checar com maiores detalhes no meu linkedin.',
+    text: 'Sou Tecnólogo, graduado em Análise e Desenvolvimento de Sistemas pela UNIS-MG, atualmente meu foco é desenvolvimento web, Front-End/Fullstack com React/Next. Tenho certificados dos cursos de React, Angular, Express dentre outros que você pode checar com maiores detalhes no meu linkedin.',
     image: '/university.png',
     imageAlt: 'university',
     // video: '',
