@@ -7,8 +7,8 @@ export const navbarItems = [
     text: 'Experiências',
     link: '/experiencias',
   },
-  {
-    text: 'Contato',
-    link: '/contato',
-  },
+  // {
+  //   text: 'Contato',
+  //   link: '/contato',
+  // },
 ];
