@@ -23,7 +23,7 @@ export const Home = () => {
         <Content>
           <TitleBox>
             <Text type="h5" textAlign="center">
-              Principais Linguagens
+              Main Languages
             </Text>
           </TitleBox>
           <IconsBox>
@@ -39,7 +39,7 @@ export const Home = () => {
 
           <TitleBox>
             <Text type="h5" textAlign="center">
-              Principais Tecnologias
+              Main Technologies
             </Text>
           </TitleBox>
           <AlignBox>
@@ -57,7 +57,7 @@ export const Home = () => {
 
           <TitleBox>
             <Text type="h5" textAlign="center">
-              Principais Libs e Ferramentas de Estilização
+              Main Libraries and Styling Frameworks
             </Text>
           </TitleBox>
           <AlignBox>
@@ -75,7 +75,7 @@ export const Home = () => {
 
           <TitleBox>
             <Text type="h5" textAlign="center">
-              Linguagens de Produção
+              Production Languages
             </Text>
           </TitleBox>
           <AlignBox>

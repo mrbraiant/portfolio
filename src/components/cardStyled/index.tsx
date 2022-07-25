@@ -57,7 +57,7 @@ export const CardStyled = ({
               Router.push(`${AppRouters.aboutMe}/${id}`)
             }
           >
-            Ler mais
+            Read more
           </Button>
         </CardActions>
       </Card>

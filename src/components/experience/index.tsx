@@ -10,10 +10,10 @@ export const Experience = () => {
         <ContentBox>
           <TitleBox>
             <Text type="h4" textAlign="center">
-              Experiências
+              Experiences
             </Text>
           </TitleBox>
-          <Text>
+          {/* <Text>
             Trabalho como Desenvolvedor Web, na área de
             Front-End, com React, Next e Angular e estou
             aprendendo cada vez mais sobre Fullstack com
@@ -30,17 +30,35 @@ export const Experience = () => {
             participando de vários projetos simultâneos
             desde seus primeiros estágios de
             desenvolvimento.
+          </Text> */}
+          <Text>
+            {`I work as a Web Developer, in the Front-End
+            team, with React, Next and Angular and I've been
+            updating more and more about Fullstack with Next
+            for almost a year. My routine is consuming APIs,
+            integrating front-end applications to back-end,
+            using Single Page Architecture to create apps
+            with responsive layouts as well, solving bugs, researching
+            solutions in the original documentations, tutorials, forums
+            and participating in several
+            simultaneous projects from the beginning stages of
+            development until the final delivery.`}
           </Text>
           <br />
           <Text>
-            Meu foco de estudos é na área Fullstack em
+            {/* Meu foco de estudos é na área Fullstack em
             TypeScript/JavaScript com React/Angular/Next e
             Node/Express para então em breve seguir com mais
-            estudos rumo ao Full Cycle.
+            estudos rumo ao Full Cycle. */}
+            My focus is continuing to learn about Fullstack
+            with TypeScript/JavaScript and
+            React/Next/Angular and Node/Express to join in
+            FullCycle course and learn about multiservices
+            and scalable applications.
           </Text>
           <br />
           <Text>
-            Minha primeira experiência como Dev, muito antes
+            {/* Minha primeira experiência como Dev, muito antes
             disso, foi uma implementação que fiz em PHP de
             free lance, onde adicionei um iFrame do Youtube
             em uma pagina de uma empresa, automatizei a
@@ -49,12 +67,23 @@ export const Experience = () => {
             principal de forma personalizada, oferecendo
             maior conforto ao usuário em inserir qualquer
             link e não impedir nem comprometer o
-            funcionamento da página.
+            funcionamento da página. */}
+            My first experience as a Dev, long before that,
+            was one that I did in PHP as freelance, where I
+            added a Youtube iFrame on a main company page,
+            automated the way to transform any Youtube link
+            into a link prepared to be embed on main page in
+            a personalized way, greater comfort to the user
+            in inserting any link and not preventing or
+            compromising the functioning of the page.
           </Text>
           <Text type="caption">
-            <em>Você pode visualizar no repositório: </em>
+            <em>
+              You can check the code inside my repository:{' '}
+            </em>
+            {/* <em>Você pode visualizar no repositório: </em> */}
             <Link href="https://github.com/mrbraiant/phpImplements/blob/main/IfConditionYoutubeSolution.php">
-              link do repositório
+              repository link
             </Link>
           </Text>
         </ContentBox>

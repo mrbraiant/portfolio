@@ -15,7 +15,7 @@ export const TextIntro = () => {
             type={isMobileVersion ? 'h6' : 'h4'}
             style={{ color: '#c5dae1' }}
           >
-            Olá, eu sou
+            Hello, I am
           </Text>
         </TitleBox>
         <Text
@@ -36,11 +36,20 @@ export const TextIntro = () => {
           type={isMobileVersion ? 'body2' : 'h5'}
           style={{ color: '#f1f1f1' }}
         >
-          Desenvolvimento Web - Com foco em desenvolvimento
+          Web Developer - focused on creating responsive
+          Landing Pages, personalized and unique
+          Systems/Dashboards, Web Apps, using and consuming
+          RESTful APIs, React, Next or Angular.
+        </Text>
+        {/* <Text
+          type={isMobileVersion ? 'body2' : 'h5'}
+          style={{ color: '#f1f1f1' }}
+        >
+          Web Developer - Com foco em desenvolvimento
           de sites, Web Apps, sistemas responsivos e
           consumos de APIs utilizando React, Next ou
           Angular.
-        </Text>
+        </Text> */}
       </TextBox>
     </Wrapper>
   );

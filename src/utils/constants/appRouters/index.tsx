@@ -1,4 +1,4 @@
 export const AppRouters = {
   home: './',
-  aboutMe: '/sobre-mim',
+  aboutMe: '/about-me',
 };

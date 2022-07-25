@@ -1,11 +1,11 @@
 export const navbarItems = [
   {
-    text: 'Sobre mim',
-    link: '/sobre-mim',
+    text: 'About me',
+    link: '/about-me',
   },
   {
-    text: 'Experiências',
-    link: '/experiencias',
+    text: 'Experiences',
+    link: '/experiences',
   },
   // {
   //   text: 'Contato',

@@ -5,7 +5,7 @@ export const HomeTemplate = () => {
   return (
     <Layout
       image="/background-coding-05.png"
-      title="Minhas Skills"
+      title="My Skills"
     >
       <Home />
     </Layout>

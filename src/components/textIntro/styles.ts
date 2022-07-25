@@ -4,6 +4,7 @@ export const Wrapper = styled('div')({});
 
 export const TextBox = styled('div')(({ theme }) => ({
   height: '100vh',
+  maxWidth: '800px',
   width: '100%',
   position: 'absolute',
   padding: '50px',
