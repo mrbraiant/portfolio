@@ -38,8 +38,8 @@ export const TextIntro = () => {
         >
           Web Developer - focused on creating responsive
           Landing Pages, personalized and unique
-          Systems/Dashboards, Web Apps, using and consuming
-          RESTful APIs, React, Next or Angular.
+          Systems/Dashboards, Web Apps, using React/Next or
+          Angular and consuming RESTful APIs.
         </Text>
         {/* <Text
           type={isMobileVersion ? 'body2' : 'h5'}
